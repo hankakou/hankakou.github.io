@@ -1,82 +1,790 @@
-<!doctype html>
-<html>
+<html lang="en">
 <head>
-<meta charset="utf-8">
-<title>个人主页设计</title>
-<style type="text/css">
-	.paragraph { background-image: url(wufan.jpg);
-                 background-repeat: no-repeat;
-				 background-position:80% 50%;
-				 /*background-position:80% 95%*/
-				 filter:alpha(opacity:30); opacity:1;}
-</style>
-<!-- 取消超链接下的下划线 -->
-<style type="text/css">a {text-decoration: none}</style>
-	
+    <meta charset="UTF-8">
+    <title>Wei ZHANG</title>
+    <style type="text/css">
+        h1{
+            text-align: center;
+            font-size: 50px;
+        }
+    </style>
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>
-
-<body class="paragraph">
-	<div>
-		<center><h1>ACoder的个人主页</h1></center>
-		<marquee bgcolor="black" behavior="scroll">
-			<font color="white" size="+1">欢迎来到ACoder的个人主页！</font>
-		</marquee>
-	</div>
-	
-	<!-- 不知道下面这样放合不合理 -->
-	<!--center-->
-		<div>
-		<h2 align="left">个人简历</h2>
-		<table border="2" bordercolor="black">
-			<caption>ACoder的个人简历</caption>
-			<tr>
-				<th rowspan="2" align="left"><img src="wufan.jpg" height="200" width=""></img></th>
-				<th>姓名</th>
-				<td align="center">xxxx</td>
-				<th>性别</th>
-				<td align="center">男</td>
-			</tr>
-			<tr>
-				<th>政治面貌</th>
-				<td align="center">xxx</td>
-				<th>出生日期</th>
-				<td align="center">1998-10-20</td>
-			</tr>
-			<tr>
-				<!-- <th><img src="悟饭.png" height="200" width=""></img></th> -->
-				<th colspan="5">兴趣爱好</th>
-			</tr>
-			<tr>
-				<td align="center">编程</td>
-				<td align="center">书法</td>
-				<td colspan="2" align="center">看武侠小说</td>
-				<td align="center">打羽毛球</td>
-			</tr>
-			<tr>
-				<th colspan="5">个人csdn博客</th>		
-			</tr>
-			<!-- 如果有网的话... -->
-			<tr>
-				<td colspan="5" align="center"><a href="https://blog.csdn.net/cprimesplus">点击参观我的博客</a></td>
-			</tr>
-		</table>
-	</div>
-	<br>
-	<div>
-		<h2>友情链接</h2>
-		<a href="https://github.com/">github</a>
-		<a href="www.baidu.com">baidu</a>
-		<a href="https://mail.126.com/">126邮箱</a>
-		<a href="https://mail.163.com/">163邮箱</a>
-		<a href="https://mail.qq.com/">qq邮箱</a>
-	</div>
-	<!--/center-->
-	<br><HR>
-	<div>
-		作者：xxx &#8195;&#8195;学校：xxx &#8195;&#8195;个人邮箱：xxx@qq.com
-		<br>csdn：cprimesplus
-	</div>
-	
+<body>
+    <h1>Seeking for a Master Degree...</h1>  
+    <br>
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+		<style media="screen" type="text/css">
+
+		<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" media="screen" />
+
+		body{
+			border: 0pt none;
+			font-family: inherit;
+			font-size: 100%;
+			font-style: inherit;
+			font-weight: inherit;
+			margin: 0pt;
+			outline-color: invert;
+			outline-style: none;
+			outline-width: 0pt;
+			padding: 0pt;
+			vertical-align: baseline;
+		}
+		body {
+			position: relative;
+			margin: 3em auto 2em auto;
+			width: 1080px;
+			font-family: Times New Roman, Lato, Verdana, Helvetica, sans-serif;
+			font-size: 14px;
+			background: #fdfdfd;
+		}
+		</style>
+
+	<script>
+		var _hmt = _hmt || [];
+		(function() {
+			var hm = document.createElement("script");
+			hm.src = "https://hm.baidu.com/hm.js?1ec4ad5c61857459aa78d5ee7ddee28d";
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(hm, s);
+		})();
+	</script>
+</head>
+
+<body>
+	<table align="center">
+	<tr>
+	<td align="center"><img border=0 height=200 width=190 src="mhy.jpg"></td>
+	<td align="center">&nbsp</td>
+	<td align="center">&nbsp</td>
+	<td align="center">
+		<td align="center"><h2>Wei ZHANG</h2>
+		     <p><font size=+1><b>张 伟</b><br><br>Software Engineer<br><a href="http://360.cn/" target="_blank"><b>Qihoo 360</b></a></font></p>
+		     <p><font size=+1>Email: <a href="mailto:yidazhang1@gmail.com"><i>yidazhang1@gmail.com</i></a></font><br></p>
+		     <p align="center">
+			     &nbsp;&nbsp;&nbsp;&nbsp;
+			<!-- GitHub -->
+                        <a href="https://github.com/Charmve" target="_blank">
+			  <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="26px"/>
+                        </a>
+                        &emsp;
+			<!-- CSDN -->
+                        <a href="https://blog.csdn.net/Charmve" target="_blank">
+                          <img src="img/logo/CSDN.png" alt="CSDN" width="30px"/>
+                        </a>
+			&emsp;
+			<!-- WeChat Office Account
+                        <a href= "https://github.com/ChromeWei/PaperWeeklyAI/blob/master/MaiweiAI-com.png" target="_blank">
+                          <img src="img/logo/WeChat_Office_Account.png" alt="WeChat Office Account" width="26px"/>
+                        </a>
+                        &emsp;
+			-->
+			<!-- Zhihu --->
+                        <a href= "https://www.zhihu.com/column/machine-learning2pthon" target="_blank">
+                          <img src="img/logo/zhihu.png" alt="ZhiHu" width="35px"/>
+                        </a>     
+                        &emsp;     
+			<!-- Kaggle -->
+                        <a href= "https://www.kaggle.com/yidazhang07/" target="_blank">
+                          <img src="img/logo/icons8-kaggle-32.png" alt="Kaggle" width="28px"/>
+                        </a>
+                        &emsp;
+			<!-- Google Scholar -
+                        <a href= " " target="_blank">
+                          <img src="img/logo/google-scholar.png" alt="Google Scholar" width="28px"/>
+                        </a>
+                        &emsp;
+			-->
+			<!-- WeChat --
+                        <a href= "https://github.com/Charmve/Charmve.github.io/tree/master/img/logo/My_WeChat.png" target="_blank">
+                          <img src="img/logo/wechat.png" alt="WeChat" width="33px"/>
+                        </a>
+			&emsp;
+			-->
+			<!-- My CV  -->
+			<a href="cv/张伟-CV-15301453650.pdf" target="_blank">
+                           <img src="img/logo/cv.png" alt="CV" width="33px"/>
+                        </a>
+			&emsp;
+                      </p>
+		</td>			
+	</td>		
+	</tr>
+	</table>
+	<br>
+	
+	<h2>Biography</h2>
+	<hr/>
+	<p>
+	    <font size="4">I am currently working at <a href="http://unicorn.360.cn/index" target="_blank">the Future Security Labs</a> of <a href="https://b.360.cn/" target="_blank"> <b>Qihoo 360</b> </a>  as a Research SDE.
+		Before that, I have received B.Eng. and B.A. from <a href="http://en.yzu.edu.cn/">Yangzhou University(YZU)</a> in 2020, 
+		supervised by Lei CHEN and Xiaoying DENG at 601 Innovative Electronics Lab, 
+		and also received academic guidance from <a href="http://wlxy.yzu.edu.cn/art/2016/9/13/art_26001_532008.html" target="_blank">Kaige GAO</a>. 
+		My research interests lie at Computer Vision and Machine Learning, especially AI hardware acceleration and model compression.
+	    </font>
+        </p>
+
+        <!-- Education
+	<p> </p>
+	<p><font size="4"><span class="label">&#10148;</span> <a href="http://www.yzu.edu.cn" target="_blank"> Yangzhou University <b>(YZU)</b></a>, 
+		<a href="http://wlxy.yzu.edu.cn/art/2018/12/14/art_7322_673658.html" target="_blank">School of Physical Science and Technology</a>
+		</font></p>
+	<table>
+		
+	<tr>
+		<td><font size="3"><b>·</b> &nbsp Bachelor of Science in Electronic Information Science & Technology, GPA: 83.2/100; Rank: 6/41 </font></td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>·</b> &nbsp <b>Dual Degree in Business English</b>, GPA: 80.76/100; Rank: 23/76, the second language: JLPT-N3:75 </font></td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>·</b> &nbsp Awards: Totally won <b>12</b> national and provincial awards, <b>28</b> municipal and school-level awards </font></td>
+	</tr>
+	</table>  
+
+	<p><font size="4"><span class="label">&#10148;</span> <a href="http://jyt.jiangsu.gov.cn/art/2018/12/5/art_58320_7944692.html" target="_blank"> Winter Academic Program</a> at
+		<a href="https://ese.nju.edu.cn/" target="_blank"> Nanjing University <b>(NJU)</b>, School of Electronic Science and Engineering</a>
+		</font></p>
+	<table>	
+	<tr>
+		<td><font size="3"><b>·</b> &nbsp Being <b>the only student</b> who passed the selection in YZU ( Only 100 undergraduates were selected from Jiangsu Province)  </font></td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>·</b> &nbsp Took part in academic lectures and artificial intelligence (AI) development trainings, received trainings in facial recognition, target detection and image processing etc.  </font></td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>·</b> &nbsp Orally reported the study of “<i>Identification of Agricultural Diseases and Pests Based on Machine Vision</i>” as a <b>student representative</b> & <b>team leader</b> </font> <a href="https://www.bilibili.com/video/av91647038" target="_blank"><b>POSTER</b></a> </td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>·</b> &nbsp Completed the Arm Smarter Connected(ASC) Course on AI Development held by <i>Arm Education</i> and <i>IThing Edu</i> </font></td>
+	</tr>
+	</table>
+ 	-->
+	<br>
+
+	<h2>Research Interests</h2>
+	<hr/>
+	<p>
+		<font size="4">
+			<a href="https://blog.csdn.net/charmve/category_9657673.html" target="_blank">Machine Learning</a>, 
+			<a href="https://blog.csdn.net/charmve/category_10281912.html" target="_blank">Computer Vision</a>, 
+			<a href="https://blog.csdn.net/charmve/category_10266056.html" target="_blank">Deep Learning</a>,
+			<a href="https://blog.csdn.net/charmve/category_10389643.html" target="_blank">PaperWeeklyAI</a>,
+			<a href="https://github.com/Charmve/Practicum" target="_blank"><b>Practicum</b></a>.
+		</font>
+	</p>
+	<br>
+
+	<h2>Books</h2>
+	<hr/>
+	<table>
+	<tr>   
+		<td><font size="3"><b>1.</b></font></td>&nbsp;&nbsp;
+		<td><center><img width="180" src="https://github.com/Charmve/computer-vision-in-action/blob/main/docs/imgs/L0CV_profile-en.png?raw=true" alt="PaperWeekly"></center></td>
+		<td></td>
+		<td></td>
+		<td>
+			<font size="4">
+				<b>计算机视觉实战演练：算法与应用</b><br>
+			</font>
+			<font size="3">
+				<b>Computer Vision in Action</b>
+			</font>	    
+			<font size="3">
+				&nbsp;&nbsp; <br><br><b>Wei Zhang*</b>
+				&nbsp;&nbsp; <br> <i><b>Computer Vision Algorithms and Applications</b>, a Chinese e-book contains source code, notebook, reader exchange community. </i> 
+				&nbsp;&nbsp; <br><br>[<a href="https://charmve.github.io/L0CV-web" target="_blank">Project website</a>]
+														| [<a href="https://charmve.github.io/computer-vision-in-action/" target="_blank"><b>Online book</b></a>]
+														| [<a href="https://github.com/Charmve/computer-vision-in-action" target="_blank">GitHub</a>]
+														| <a href="https://charmve.github.io/computer-vision-in-action/" target="_blank"><img src="https://img.shields.io/badge/简体中文-英文-000000.svg?style=flat-square&amp;logo=GitBook" alt="Chinese Version"></a>
+														<a href="https://github.com/Charmve/computer-vision-in-action/edit/master/README.md"><img src="https://img.shields.io/github/stars/Charmve/computer-vision-in-action?style=social" alt="Stars"></a>
+		</font>
+		</td>
+	</tr>
+	</table>
+	<br>
+
+	<h2>Research Experience</h2>
+	<hr/>
+	<table>
+    <tr>   
+		<td><font size="3"><b>5.</b></font></td>&nbsp;&nbsp;
+		<td><center><img width="260" src="img/surface_dataset.png" alt="Surface Defect Detection"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+                <b>   Surface Defect Detection: Paper & Dataset</b>
+			</font>	    
+			<font size="3">
+			<br>
+			<br>Constantly summarizing open source dataset and important critical papers in the field of surface defect research are very important.
+			<br><br> NEU-CLS, elpv-dataset, KolektorSDD, DeepPCB, AITEX, DAGM 2007, Cracks on the surface of the construction, Magnetic Tile, RSDDs Kylberg Texture, etc.
+                        <ul class="list-inline">
+                            <a class="github-button"
+                                href="https://github.com/Charmve/Surface-Defect-Detection"
+                                data-icon="octicon-star" data-show-count="true"
+                                aria-label="Star Charmve/Surface-Defect-Detection on GitHub">Star</a>
+                            <a class="github-button"
+                                href="https://github.com/Charmve/Surface-Defect-Detection/fork"
+                                data-icon="octicon-repo-forked" data-show-count="true"
+                                aria-label="Fork Charmve/Surface-Defect-Detection on GitHub">Fork</a>
+                       </ul>
+		       <br><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>
+			    <a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">https://github.com/Charmve/Surface-Defect-Detection</a>
+		       <br><br>
+		</td>
+	</tr>
+	<tr>   
+		<td><font size="3"><b>4.</b></font></td>&nbsp;&nbsp;
+		<td><center><img width="260" src="img/glrass_detection.jpg" alt="GlassDetection"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+			    <b>  Mirror & Glass Detection in Real-world Scenes </b>
+			</font>	    
+			<font size="3">
+		            <br>
+			    <br>   I'm more interested in detecting general glass surfaces that may not possess any special properties, 
+				and am developing computational models for automatic detection and segmentation of mirror and transparent glass surfaces.
+			    <br>
+				Thanks for <i>cs.cityu.edu.hk.</i>
+			    <br>
+			    <ul class="list-inline">
+                                 <a class="github-button"
+                                     href="https://github.com/Charmve/Mirror-Glass-Detection"
+                                     data-icon="octicon-star" data-show-count="true"
+                                     aria-label="Star Charmve/Mirror-Glass-Detection on GitHub">Star</a>
+                                 <a class="github-button"
+                                     href="https://github.com/Charmve/Mirror-Glass-Detection/fork"
+                                     data-icon="octicon-repo-forked" data-show-count="true"
+                                     aria-label="Fork Charmve/Mirror-Glass-Detection on GitHub">Fork</a>
+                            </ul>
+			    <br><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>
+				<a href="https://github.com/Charmve/Mirror-Glass-Detection" target="_blank">https://github.com/Charmve/Mirror-Glass-Detection</a>
+			    <br><br>
+			</font>
+		</td>
+	</tr>
+	<tr>   
+		<td><font size="3"><b>3.</b></font></td>&nbsp;&nbsp;
+		<td><center><img width="260" src="img/sne-roadseg.png" alt="SNE-RoadSeg2"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+			    <b>   SNE-RoadSeg2: Accurate Freespace Detection</b>
+			</font>	    
+			<font size="3">
+			    <br>
+			    <br>   PyTorch implementation of <i>SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection</i> <a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750341.pdf" target="_blank">[Paper]</a>
+			    <br>
+                            <ul class="list-inline">
+                                <a class="github-button"
+                                    href="https://github.com/Charmve/SNE-RoadSeg2"
+                                    data-icon="octicon-star" data-show-count="true"
+                                    aria-label="Star Charmve/SNE-RoadSeg2 on GitHub">Star</a>
+                                <a class="github-button"
+                                    href="https://github.com/Charmve/SNE-RoadSeg2/fork"
+                                    data-icon="octicon-repo-forked" data-show-count="true"
+                                    aria-label="Fork Charmve/SNE-RoadSeg2 on GitHub">Fork</a>
+                            </ul>
+			    <br><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>
+				<a href="https://github.com/Charmve/SNE-RoadSeg2" target="_blank">https://github.com/Charmve/SNE-RoadSeg2</a>
+			    <br><br>
+			</font>
+		</td>
+	</tr>
+	<tr>   
+		<td><font size="3"><b>2.</b></font></td>&nbsp;&nbsp;
+		<td><center><img width="260" src="https://img-blog.csdnimg.cn/20200706154355286.png" alt="LightCube"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+				<b>   Light Cube: A Design of 3D Dynamic Display System Based on Voice Control</b>
+			</font>	    
+			<font size="3">
+			<br>
+			    <br>   In this paper, a 3D dynamic display system based on voice control is presented, which solves the existing light cube display color single, low resolution, poor human-computer interaction performance, complex design, high cost, etc.
+			    <br><a href="./doc/papers/一种基于语音控制的3D动态显示系统设计.pdf" target="_blank">[Paper (Chinese)]</a> 
+				   | <a href="https://github.com/Charmve/LightCube" target="_blank">[GitHub]</a> 
+				   | <a href="./doc/src/基于FPGA的智能语音3D动态显示系统·Slides.pdf" target="_blank">[Slides]</a> 
+				   | <a href="https://charmve.github.io/doc/src/基于FPGA的智能语音3D动态显示系统·Slides.pdf" target="_blank">[Patents]</a> 
+				   | <a href="https://www.bilibili.com/video/BV1cJ411C7NR" target="_blank">[Video]</a>
+				   | <a href="https://github.com/Charmve/EmotionCube" target="_blank">[Evolution]</a>
+			    <br>
+             <ul class="list-inline">
+                 <a class="github-button"
+                     href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control"
+                     data-icon="octicon-star" data-show-count="true"
+                     aria-label="Star Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control on GitHub">Star</a>
+                 <a class="github-button"
+                     href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/fork"
+                     data-icon="octicon-repo-forked" data-show-count="true"
+                     aria-label="Fork Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control on GitHub">Fork</a>
+             </ul>
+			    <br><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>
+				<a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control" target="_blank">https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control</a>
+		            <br><br>
+			</font>
+		</td>
+	</tr>
+	<tr>   
+		<td><font size="3"><b>1.</b></font></td>&nbsp;&nbsp;
+		<td><center><img width="260" src="img/profile.jpg" alt="BLESec"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+			    <b>   Bluetooth-LE Security: Method, Tools and Protocol Stack</b>
+			</font>	    
+			<font size="3">
+			<br>
+			    <br>
+			       The dangers of Bluetooth Low Energy(BLE) implementations: Unveiling zero day vulnerabilities and security flaws in modern Bluetooth LE stacks.
+			    <br>
+                            <ul class="list-inline">
+                                <a class="github-button"
+                                    href="https://github.com/Charmve/BLE-Security-Attack-Defence"
+                                    data-icon="octicon-star" data-show-count="true"
+                                    aria-label="Star Charmve/BLE-Security-Attack-Defence on GitHub">Star</a>
+                                <a class="github-button"
+                                    href="https://github.com/Charmve/BLE-Security-Attack-Defence/fork"
+                                    data-icon="octicon-repo-forked" data-show-count="true"
+                                    aria-label="Fork Charmve/BLE-Security-Attack-Defence on GitHub">Fork</a>
+                            </ul>
+			    <br><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>
+				<a href="https://github.com/Charmve/BLE-Security-Attack-Defence" target="_blank">https://github.com/Charmve/BLE-Security-Attack-Defence</a>
+			    <br><br>
+			</font>
+		</td>
+	</tr>
+	</table>
+	<br>
+	
+	<!--
+	<h2>✨ News! ✨</h2>
+	<hr/>
+	<ul>
+		<li><font size="4"><b>2020.03.06:</b> 1 paper was accepted by <a href="https://www.2020.ieeeicme.org/" target="_blank">ICME 2020</a> !</font></li>
+		<li><font size="4"><b>2020.02.24:</b> 1 paper was accepted by <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a> !</font></li>
+	</ul>
+	<br>
+	-->
+	
+	<h2>Publications &nbsp;<a href="https://github.com/Charmve" target="_blank"><img src="img/logo/google-scholar.png" alt="Google Scholar" width="64px"/></a></h2>
+	<hr/>
+	<table>
+		<!--
+		<tr>
+			<td><font size="4"><b>2020</b></font></td>
+		</tr>
+
+		<tr>
+			<td><font size="4">1.</font></td>
+			<td><center><img width="300" height="240" src="glass_teaser.png"></center></td>
+			<td><font size="4">&nbspDon't Hit Me! Glass Detection in Real-World Scenes
+				<br>
+				<b>&nbspHaiyang Mei</b>, Xin Yang, Yang Wang, Yuanyuan Liu, Shengfeng He,
+				<br>
+				&nbspQiang Zhang, Xiaopeng Wei, Rynson W.H. Lau
+				<br>
+				&nbsp<i>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>) 2020</i>
+				<br>
+				&nbsp[<b><a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Mei_Dont_Hit_Me_Glass_Detection_in_Real-World_Scenes_CVPR_2020_paper.pdf" target="_blank">PDF</a></b> | <a href="https://github.com/Charmve/mhaiyang.github.io/blob/master/CVPR2020_GDNet/index.html" target="_blank"><b>Project Page</b></a>]
+			</font></td>
+		</tr>
+		<br>
+		<tr>
+			<td><font size="4">2.</font></td>
+			<td><center><img width="300" height="240" src="icme_teaser.jpg"></center></td>
+			<td><font size="4">&nbspMulti-Context And Enhanced Reconstruction Network For Single Image Super Resolution
+				<br>
+				&nbspJiqing Zhang, Chengjiang Long, Yuxin Wang, Xin Yang, <b>Haiyang Mei</b>, and Baocai Yin
+				<br>
+				&nbsp<i>IEEE International Conference on Multimedia and Expo (<b>ICME</b>) 2020</i>
+				<br>
+				&nbsp[<b><a href="https://ieeexplore.ieee.org/document/9102868" target="_blank">PDF</a></b> | <a href="https://github.com/Charmve/mhaiyang.github.io/blob/master/ICME2020_MCERN/index.html" target="_blank"><b>Project Page</b></a>]
+			</font></td>
+		</tr>
+
+		<tr>
+			<td><br><br><br><font size="4"><b>2019</b></font></td>
+		</tr>
+
+		<tr>
+			<td><font size="4">1.</font></td>
+			<td><center><img width="300" src="teaser.jpg"></center></td>
+			<td><font size="4">&nbspWhere Is My Mirror?
+				<br>
+				&nbspXin Yang<font size="3" color="DeepSkyBlue ">*</font>, <b>Haiyang Mei</b><font size="3" color="DeepSkyBlue ">*</font>, Ke Xu, Xiaopeng Wei, Baocai Yin, and Rynson Lau. (<font size="3" color="DeepSkyBlue ">*</font> <font size="3">joint first authors</font>)
+				<br>
+				&nbsp<i>IEEE International Conference on Computer Vision (<b>ICCV</b>) 2019</i>
+				<br>
+				&nbsp[<b><a href="https://arxiv.org/pdf/1908.09101v2.pdf" target="_blank">PDF</a></b> | <a href="https://github.com/Charmve/mhaiyang.github.io/blob/master/ICCV2019_MirrorNet/index.html" target="_blank"><b>Project Page</b></a>]
+			</font></td>
+		</tr>
+		<br>
+		-->
+		
+		<tr>
+			<td><br><font size="4"><b>2020</b></font></td>
+		</tr>
+		<tr>
+			<td><font size="4">2.&nbsp</font></td>
+			<td><center><img width="300" height="240" src="survey-fpga-accelerator.png"></center></td>
+			<td>
+				<font size="4">
+					<b>A Survey of Field Programmable Gate Array-Based Convolutional Neural Network Accelerators</b>
+				</font>
+				<font size="3">
+						&nbsp;&nbsp; <br><br><b>Wei Zhang*</b>
+						&nbsp;&nbsp; <br> <i><b>International Journal of Electronics and Communication Engineering</b>. 14(12) 2020. 419-427.</i> https://publications.waset.org/10011686/pdf
+						&nbsp;&nbsp; <br><br>[<a href="https://panel.waset.org/downloads/20/papers2/a-survey-of-fpga-based-cnns-accelerators%5B3%5D.pdf" target="_blank">ICA 2020</a>]
+																| [<a href="https://publications.waset.org/10011686/pdf" target="_blank"><b>PDF</b></a>]
+																| [<a href="https://publications.waset.org/10011686/bibtex" target="_blank">BibTeX</a>]
+																| [<a href="https://publications.waset.org/10011686/endnote" target="_blank">EndNote</a>]
+				</font>
+			</td>
+		</tr>
+		<tr>
+			<td><font size="4">1.&nbsp</font></td>
+			<td><center><img width="300" height="240" src="Large%20single%20crystals.jpg"></center></td>
+			<td>
+				<font size="4">
+					&nbsp;&nbsp;<b>Pyroelectricity and field-induced spin-flop in (4-(Aminomethyl)pyridinium)<sub>2</sub>MnCl<sub>4</sub> · 2H<sub>2</sub>O</b>
+				</font>
+				<font size="3">
+					<br><br>
+					&nbsp;&nbsp;Kaige Gao, Chunlin Liu, <b>Wei Zhang</b>, Kangni Wang and Wenlong Liu
+					<br>
+					&nbsp;&nbsp;<i>2020 <b>R. Soc. Open Sci</b>. 7: 200271.</i> https://doi.org/10.1098/rsos.200271
+					<br><br>
+					&nbsp;&nbsp;[<b><a href="http://dx.doi.org/10.1098/rsos.200271" target="_blank">PDF</a></b>] 
+					| [<a href="https://royalsocietypublishing.org/doi/suppl/10.1098/rsos.200271" target="_blank">Supplemental Material</a>]
+					<br><br><details><summary>BibTeX</summary>Gao Kaige, Liu Chunlin, Zhang Wei, Wang Kangni and Liu Wenlong. Pyroelectricity and field-induced spin-flop in (4-(Aminomethyl)pyridinium)<sub>2</sub>MnCl<sub>4</sub> · 2H<sub>2</sub>O. 2020. <i>R. Soc. open sci.7200271</i>
+	http://doi.org/10.1098/rsos.200271</details>
+				</font>
+			</td>
+		</tr>
+		
+	<!--
+		<tr>
+			<td><br><br><br><font size="4"><b>2018</b></font></td>
+		</tr>
+
+		<tr>
+			<td><font size="4">1.</font></td>
+			<td><center><img width="300" src="tmm_teaser.jpg"></center></td>
+			<td><font size="4">&nbspDRFN: Deep Recurrent Fusion Network for Single Image Super-Resolution with Large Factors
+				<br>
+				&nbspXin Yang, <b>Haiyang Mei</b>, Jiqing Zhang, Ke Xu, Baocai Yin, Qiang Zhang, and Xiaopeng Wei.
+				<br>
+				&nbsp<i>IEEE Transactions on Multimedia (<b>TMM</b>) 2018</i>
+				<br>
+				&nbsp[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425771" target="_blank"><b>PDF</b></a>|
+				<a href="https://github.com/Charmve/mhaiyang.github.io/blob/master/TMM2018_DRFN/index.html" target="_blank"><b>Project Page</b></a>]
+			</font></td>
+		</tr>
+	-->
+	</table>
+	<br>
+
+	<h2>Patents</h2>
+	<hr/>
+	<table>
+	<tr>   
+		<td><font size="3"><b>9.</b></font></td>
+		<td><center><img width="260" src="img/patants/Patent_tracking.png" alt="Tracking Specific BLE"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+				<b>一种蓝牙设备追踪方法、装置、设备及存储介质</b><br>Bluetooth Device Tracking Method, Device, Equipment and Storage Medium [P], 
+			</font>
+			<font size="3">
+                            &nbsp;&nbsp; <br><br><b>Wei Zhang</b>, Lei Ji.
+			    &nbsp;&nbsp; <br> 
+			    &nbsp;&nbsp; <br>[<a href=" " target="_blank"><b>PDF</b></a>] | [<a href="https://charmve.github.io/doc/patents/360未来安全研究院_低功耗蓝牙安全研究_张伟.pdf" target="_blank"><b>Slides</b></a>]
+			</font>
+		</td>
+	</tr>
+	<tr>   
+		<td><font size="3"><b>8.</b></font></td>
+		<td><center><img width="260" src="img/patants/Patent_relay.png" alt="Relay Specific BLE"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+				<b>一种低功耗蓝牙通信中继方法、装置、设备及存储介质</b><br>Bluetooth Low Energy(BLE) Communication Relay Method, Device, Equipment and Storage Medium [P], 
+			</font>
+			<font size="3">
+                            &nbsp;&nbsp; <br><br>Lei Ji, <b>Wei Zhang</b>.
+			    &nbsp;&nbsp; <br> 
+			    &nbsp;&nbsp; <br>[<a href=" " target="_blank"><b>PDF</b></a>] | [<a href="https://charmve.github.io/doc/patents/360未来安全研究院_低功耗蓝牙安全研究_张伟.pdf" target="_blank"><b>Slides</b></a>]
+			</font>
+		</td>
+	</tr>
+	<tr>   
+		<td><font size="3"><b>7.</b></font></td>
+		<td><center><img width="260" src="img/patants/Patent-param.png" alt="Analyzing BLE Communication Parameters"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+				<b>一种蓝牙通信参数解析方法、装置、设备及存储介质</b><br>Method, Device, Equipment and Storage Medium for Analyzing Bluetooth Communication Parameters [P], 
+			</font>
+			<font size="3">
+                            &nbsp;&nbsp; <br><br><b>Wei Zhang</b>, Lei Ji.
+			    &nbsp;&nbsp; <br> 
+			    &nbsp;&nbsp; <br>[<a href=" " target="_blank"><b>PDF</b></a>] | [<a href="https://charmve.github.io/doc/patents/360未来安全研究院_低功耗蓝牙安全研究_张伟.pdf" target="_blank"><b>Slides</b></a>]
+			</font>
+		</td>
+	</tr>
+	<tr>   
+		<td><font size="3"><b>6.</b></font></td>
+		<td><center><img width="260" src="img/patants/Patent-display.png" alt="Light Cube Circuit"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+				<b>一种显示阵列控制电路、装置及光立方</b><br>Full-color Display Array Control Circuit, Device and Light Cube [P], 
+			</font>
+			<font size="3">
+          		    &nbsp;&nbsp; <br><br><b>Wei Zhang</b>.
+			    &nbsp;&nbsp; <br> 
+			    &nbsp;&nbsp; <br>[<a href=" " target="_blank"><b>PDF</b></a>] | [<a href="" target="_blank"><b>Slides</b></a>]
+			</font>
+		</td>
+	</tr>
+	<tr>   
+		<td><font size="3"><b>5.</b></font></td>
+		<td><center><img width="260" src="img/patants/Patent-block.png" alt="Block Specific BLE"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+				<b>一种低功耗蓝牙连接阻断方法、装置、设备及存储介质</b><br>Method, device, equipment and storage medium for blocking Bluetooth Low Energy (BLE) connection [P], 
+			</font>
+			<font size="3">
+                            &nbsp;&nbsp; <br><br>Lei Ji, <b>Wei Zhang</b>.
+			    &nbsp;&nbsp; <br> 
+			    &nbsp;&nbsp; <br>[<a href=" " target="_blank"><b>PDF</b></a>] | [<a href="https://charmve.github.io/doc/patents/360未来安全研究院_低功耗蓝牙安全研究_张伟.pdf" target="_blank"><b>Slides</b></a>]
+			</font>
+		</td>
+	</tr>
+	<tr>   
+		<td><font size="3"><b>4.</b></font></td>
+		<td><center><img width="260" src="img/patants/3d-displayer_patent.png" alt="3d-displayer"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+				<b>一种动态显示系统、装置及方法</b><br>A 3D Dynamic Displayer System, a Device and a Method [P], 
+			</font>
+			<font size="3">
+          &nbsp;&nbsp; <br><br><b>Wei Zhang</b>.
+			    &nbsp;&nbsp; <br> The invention belongs to the field of display technology. The dynamic display system includes a light cube module, a drive control module and a voice recognition module connected in sequence.
+			    &nbsp;&nbsp; <br><br>[<a href=" " target="_blank"><b>PDF</b></a>] | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="GitHub" width="22px"/><a href="https://github.com/Charmve/LightCube" target="_blank">GitHub</a>
+			</font>
+		</td>
+	</tr>
+	<!--
+		<tr>   
+			<td><font size="3"><b>4.</b></font></td>
+			<td><center><img width="260" src="img/patants/Patent_campus-card.jpg" alt="Patent_campus-card"></center></td>
+			<td>
+				<font size="4">
+					<b>A System for All-purpose Campus Card United with Business Member Based on IOT and RFID Technology</b>[P], 
+				</font>
+				<font size="3">
+						&nbsp;&nbsp; <br><br>Zijia Wang, <b>Wei Zhang</b>, Xiaofeng Yang, Wei Wang, et al.
+						&nbsp;&nbsp;<br>CN208722234U, 2019-04-09.
+						&nbsp;&nbsp; <br><br>[<b><a href="http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN208722234U" target="_blank">PDF</a></b>]
+				</font>
+			</td>
+		</tr>
+  -->
+	<tr>   
+		<td><font size="3"><b>3.</b></font></td>
+		<td><center><img width="260" src="img/patants/Patent_web-cam.jpg" alt="Patent_web-cam"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4"><b>一种嵌入实时环境信息的网络摄像头</b><br>A Webcam Embedded with Real-time Environment Information [P], 
+			</font>
+			<font size="3">
+           &nbsp;&nbsp;<br><br>Xiaoying Deng, <strong>Wei Zhang</strong>, Xiaofeng Yang, Weifeng Chen.
+			     &nbsp;&nbsp;<br>CN209608763U, 2019-11-08.
+		       &nbsp;&nbsp;<br><br>[<b><a href="http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN209608763U" target="_blank">PDF</a></b>]
+			</font>
+		</td>
+	</tr>
+	<tr>   
+		<td><font size="3"><b>2.</b></font></td>
+		<td><center><img width="260" src="img/patants/Patent_reading-aid.jpg" alt="Patent_reading-aid"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+				<b>基于树莓派的盲人阅读辅助设备</b><br>A Reading-aid Device for the Bling Based on Raspberry Pi [P], 
+			</font>
+			<font size="3">
+          &nbsp;&nbsp;<br><br>Xiaofeng Yang, <b>Wei Zhang</b>, Xiaoying Deng, Weifeng Chen, et al.
+			    &nbsp;&nbsp;<br>CN209281692U, 2019-08-20.
+		      &nbsp;&nbsp;<br><br>[<b><a href="http://epub.cnipa.gov.cn/certifdesc.action?strWhere=CN209281692U" target="_blank">PDF</a></b>]
+			</font>
+		</td>
+	</tr>
+    <tr>   
+		<td><font size="3"><b>1.</b></font></td>
+		<td><center><img width="260" src="img/patants/Patent_campus-card.jpg" alt="Patent_campus-card"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+				<b>一种基于物联网RFID技术的校园一卡通联合商家会员系统</b><br>A System for All-purpose Campus Card United with Business Member Based on IOT and RFID Technology [P], 
+			</font>
+			<font size="3">
+          &nbsp;&nbsp; <br><br>Zijia Wang, <b>Wei Zhang</b>, Xiaofeng Yang, Wei Wang, et al.
+			    &nbsp;&nbsp;<br>CN208722234U, 2019-04-09.
+			    &nbsp;&nbsp; <br><br>[<b><a href="http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN208722234U" target="_blank">PDF</a></b>]
+			</font>
+		</td>
+	</tr>
+	</table>
+	<br>
+
+    <!--
+	<table>
+	<tr>   
+		<td><font size="3"><b>1.</b> &nbsp A Webcam Embedded with Real-time Environment Information[P]. &nbsp; Xiaoying Deng, <strong>Wei Zhang</strong>, Xiaofeng Yang, Weifeng Chen. &nbsp CN209608763U, 2019-11-08.</font></td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>2.</b> &nbsp A Reading-aid Device for the Bling Based on Raspberry Pi[P]. &nbsp; Xiaofeng Yang, <b>Wei Zhang</b>, Xiaoying Deng, Weifeng Chen, et al. &nbsp CN209281692U, 2019-08-20.</font></td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>3.</b> &nbsp A System for All-purpose Campus Card United with Business Member Based on IOT and RFID Technology[P]. &nbsp; Zijia Wang, <b>Wei Zhang</b>, Xiaofeng Yang, Wei Wang, et al. &nbsp CN208722234U, 2019-04-09.</font></td>
+	</tr>
+	</table>
+	<br>
+    -->
+		
+	<h2>Software Copyrights</h2>
+	<hr/>
+	<table>
+	<tr>	
+		<td><font size="3"><b>1.</b> &nbsp An Interactive AI System Software Featuring Dynamic Facial Expression Recognition and Voice Chatting[S]. &nbsp; <b>Wei Zhang</b>, Xiaoying Deng, Wanting Liu. &nbsp 2019R11S0455591.</font></td>
+	</tr>
+	<tr>	 
+		<td><font size="3"><b>2.</b> &nbsp A System Software Used in a Bluetooth-controlled Car for Authentication Based on Dynamic Facial Recognition[S]. &nbsp; <b>Wei Zhang</b>, Fuzhou Shen, Xiaoying Deng, Lei CHEN. &nbsp 2019R11S0455589.</font></td>
+	</tr>
+	<tr>
+		<td><font size="3"><b>3.</b> &nbsp An Eco-regulation System Based on Internet and Real-time Monitoring[S]. &nbsp; Saibo Fan, Jiqiao Sun, Fuzhou Shen, <b>Wei Zhang</b>, Lei Chen. &nbsp 2019SR0619769.</font></td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>4.</b> &nbsp A Smart Car System with Tracing and Photography Functions[S]. &nbsp; Fuzhou Shen, <b>Wei Zhang</b>, Saibo Fan, Lei Chen. &nbsp 2019SR0676736.</font></td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>5.</b> &nbsp A 3D Dynamic Display System Based on Intelligent Voice[S]. &nbsp; <b>Wei Zhang</b>, Fuzhou Shen, Ce Sun, Xiaoying Deng, Lei Chen. &nbsp 2019SR0223080.</font></td> 
+	</tr>
+	<tr>	
+		<td><font size="3"><b>6.</b> &nbsp A Robot Control System Server Based on WebServer Technology[S]. &nbsp; <b>Wei Zhang</b>, Xiaofeng Yang, Xiaoying Deng. &nbsp 2018SR879516.</font></td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>7.</b> &nbsp An Intelligent Rainbow Light System Software Based on Wi-Fi Module[S]. &nbsp; Shaowei Qian, Xuelian Ge, <b>Wei Zhang</b>, Xiaoming Yan, Lei Chen. &nbsp 2018SR773134.</font></td>	
+	</tr>
+	</table>
+	<br>
+	
+	<h2>Funding</h2>
+	<hr/>
+	<table>
+	<tr>	
+		<td><br><b>1.</b>&nbsp; <font size="4">Provincial College Students’ Innovative Entrepreneurial Training Program, 2019.5–2020.5</font></td>
+	</tr>
+	<tr>
+		<td>
+			<p> &nbsp;&nbsp; <font size="3">- Yangzhou Maiwei Microelectronics Co., Ltd., <i>No. 201911117138T</i>, <b>Principal Investigator</b></font></p>
+		</td>
+	</tr>
+	<tr>	
+		<td><b>2.</b> &nbsp; <font size="4">School-level College Students' Innovative Entrepreneurial Training, 2018.5–2019.5</font> </td>
+	</tr>
+	<tr>
+		 <td>
+			<p>&nbsp;&nbsp; <font size="3">- A Design of Indoor Self-navigating Meal Delivery Robot Based on Facial Recognition, <i>No. x20180186</i>, <b>Principal Investigator</b> </font><br>
+			<div style="line-height:10px"></div>&nbsp;&nbsp; <font size="3">- E-reading Aids for Visually Impaired People Based on Optical Character Recognition(OCR) and Text to Speech(TTS) Techniques, <i>No. x20180186</i>, Participator</font></p>
+            
+		 </td>
+	</tr>
+	</table>
+	<br>
+
+	<h2>Awards & Honors</h2>
+	<hr/>
+	<table>
+	<tr>
+		<td>
+		<p>
+			<font size="4"><span class="label">&#10148;</span> 05/2019 - </font><font size="3"><strong>2nd Prize</strong>, The 2nd National University Contest on Intelligent Robotic Innovations. <a href="https://github.com/Charmve/Intelligent-Speech-Sompanion-Robot-Based-on-Sentiment-Analysis" target="_blank"><i>A Voice Robot Based on Emotion Analysis</i></a>. <b>Wei ZHANG</b>, Hongxia YU, Jieling JIANG. Advisor：Lei CHEN, Xiaoying DENG.</font><br>
+			<div style="line-height:18px"></div>
+			<font size="4"><span class="label">&#10148;</span> 11/2018 - </font><font size="3"><strong>2nd Prize</strong>, 2018 National College Students’ FPGA Innovation Design Competition. <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control" target="_blank"><i>A 3D Display System with Intelligent Voice Based on FPGA</i></a>. Fuzhou Shen, <b>Wei ZHANG</b>, Ce Sun. Advisor：Lei CHEN, Weifeng CHEN.</font><br>
+		        
+		        <font size="4"><span class="label">&#10148;</span> 04/2019 - </font><font size="3">National 3rd Prize, <strong>1st Prize in East China</strong>, 'Discovery Cup' Software Design Competition of National College Students’ 'Internet Plus' Innovation Contest. <a href="https://www.youtube.com/watch?v=Xc_AfRVF1nw" target="_blank"><i>Yangzhou Maiwei Microelectronics Co., Ltd.</i></a> <i>No. 201911117138T</i>, <b>Principal Investigator</b>.</font><br>
+		        
+		        <font size="4"><span class="label">&#10148;</span> 10/2019 - </font><font size="3"><strong>2nd Prize</strong> East China Region, National College Student Embedded Chip and System Design Competition and Smart Interconnect Innovation Competition. <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control" target="_blank"><i>Design of a 3D Dynamic Display System Based on Voice Control</i></a>. <b>Wei ZHANG</b>, Fuzhou Shen, Zhichao Fan. Advisor：Lei CHEN, Xiaoying DENG.</font><br>
+		        
+			<font size="4"><span class="label">&#10148;</span> 10/2018 - </font><font size="3"><strong>1st Prize</strong>, Peeli Campus Venture Competition in Jiangsu Province. <a href="https://www.youtube.com/watch?v=Xc_AfRVF1nw" target="_blank"><i>Yangzhou Maiwei Microelectronics Co., Ltd.</i></a> <b>Wei ZHANG</b>, Siyi Yao, Yuzhu ZHANG, Hongyu Li. <i>No. 201911117138T</i>, <b>Principal Investigator</b>.</font><br>
+		        
+		        <font size="4"><span class="label">&#10148;</span> 08/2019 - </font><font size="3">Provincial <strong>2nd Prize</strong> of National Electronic Design Competition. Fuzhou Shen, <b>Wei ZHANG</b>, Zhichao Fan. Advisor：Lei CHEN, Weifeng CHEN. <a href="https://github.com/Charmve/Practicum" target="_blank"><i>More Practicum</i></a>. </font><br>
+		        
+		        <font size="4"><span class="label">&#10148;</span> 10/2018 - </font><font size="3">Honorary title of <a href="http://www.people.com.cn/n1/2018/1116/c347407-30405565-3.html" target="_blank">“<strong>New Youth for a Powerful Nation</strong>”</a> of National Summer Voluntary Teaching (selected among 300 people nationwide by <i>the Department of Schools of Central Committee of the Communist Youth League of China</i>, <i>China Youth Daily</i> and <i>people.cn</i>).</font><br>
+		        <div style="line-height:18px"></div>
+		        <font size="4"><span class="label">&#10148;</span> 05/2019 - </font><font size="3">Won the honorary title of <a href="http://www.zggyw.org/gonggao/content-15-5175-1.html" target="_blank">“<strong>Top100 Volunteer</strong>”</a> & <a href="http://www.zggyw.org/gonggao/content-15-5473-1.html" target="_blank"><strong>"College Student Charity Star"</strong></a> initiated by <i>www.zggyw.org</i>, and got <strong>full membership</strong> of <i>International Association of Volunteers</i> Youth Action Committee.</font><br>
+		        
+		        <font size="4"><span class="label">&#10148;</span> 11/2018 - </font><font size="3"><strong>National Encouragement Scholarship</strong>(5%) 3 consecutive years, <strong>Fei Xiaotong Scholarship of Morality Cultivation</strong> (1/794).</font><br>
+		        <div style="line-height:18px"></div>
+		        <font size="4"><span class="label">&#10148;</span> 08/2019 - </font><font size="3"><strong>1st Prize</strong>, The 5th China College Students' 'Internet Plus' Innovation and Entreprenurship Competition. <a href="https://www.youtube.com/watch?v=Xc_AfRVF1nw" target="_blank"><i>Yangzhou Maiwei Microelectronics Co., Ltd.</i> </a><b>Wei ZHANG</b>, Hongxia Yu, Zhichao Fan, Shumin Li. <i>No. 201911117138T</i>, <b>Principal Investigator</b>.</font>
+		</p>
+		</td>
+	</tr>
+	</table>
+	<br>
+
+	<h2>Social Activities</h2>
+	<hr/> 
+	<table>
+	<tr>
+		<td><font size="4"><span class="label">&#10148;</span> 08/2020-now  <b>Technical Blog Analyst</b>, Global Affairs, Synced Technology </font></td>
+	</tr>
+	<tr>
+		<td><font size="4"><span class="label">&#10148;</span> 07/2020-now  <b>Vice-advisor</b>, Ant Academic Study Center </font></td>
+	</tr>
+	<tr>
+		<td><font size="4"><span class="label">&#10148;</span> Volunteer Experiences (<b>OVER 250</b> hours of volunteer services)</font></td>
+	</tr>
+	<tr>
+		<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="3"> 02/2020 - </font> Excellent work in respect of the volunteer program of <a href="https://unfccc.int/news/youth-urge-climate-action-at-cop25" target="_blank"><b>COP25 - Youth4Climate</b></a> to United Nations Framework Convention on Climate Change, <b>Assistant</b> to the Greater China Secretariat, <b>Excellent Group</b> </font></td>
+	</tr>
+	<tr>	
+		<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="3"> 04/2019 - </font> Yangzhou Jianzhen International Half Marathon, <b>Outstanding Volunteer</b> </font></td>
+	</tr>
+	<tr>	
+		<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="3"> 03/2019 - </font> Responsible for the recruitment of volunteers in mainland China for The 2019 World Summer Special Olympic Games, <b>Group Leader</b> </font></td>
+	</tr>
+	<tr>	
+		<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="3"> 08/2018 - </font> Volunteering for The 19th Sports Games of Jiangsu, as an assistant referees of the youth team of basketball games </font></td>
+	</tr>
+	<tr>	
+		<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="3"> 07/2018 - </font> International Volunter Job in <a href="https://aiesec.org" target="_blank"><b>AIESEC</b></a> in NJU, Mainland of China's Incoming Global Volunteer program <i>Explore China7.0</i> </font></td>
+	</tr>
+	</table>
+	<br>
+
+	<br><br>
+	<h2>Website visit statistics</h2>
+	<hr/>
+	<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=v_xn_Dhrnu0fDyl460FCo-ANZ3JwLvVDZ_9pBKJtrwg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+
+    <div id="copyright" align="right">
+        <p>Copyright&copy; 2020 Wei Zhang.</p>
+    </div>
+</body>
+</html>
